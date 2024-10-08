@@ -1,1 +1,6 @@
 #python
+
+This is my first repository in the github
+
+And i am adding the python codes here
+
